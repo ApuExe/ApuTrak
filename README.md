@@ -320,11 +320,7 @@ Consulta el archivo [LICENSE](LICENSE) para más información.
 
 ---
 
-# 👨‍💻 Autor
-
-Desarrollado por **Juan** 🚀
-
-Apasionado por el desarrollo de software, arquitectura moderna y experiencias Offline-First.
+Desarrollado por **Luis Sabrera** 🚀
 
 ---
 
