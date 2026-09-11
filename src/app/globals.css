@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}
+
+.pdf-export-mode .no-print {
+  display: none !important;
+}
+
+.pdf-export-mode body {
+  background: white;
+}
